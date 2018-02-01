@@ -4,9 +4,9 @@ Welcome to this webpage, where you can see me and my dogs, whom I miss dearly as
 
 ### Corky the Yorkie
 
-This is Corky. We rescued him when he was 5 years old. He is now 11 and still thriving, as pictured below.
+This is Corky. We rescued him when he was 5 years old. He is now 11 and still thriving, as pictured below. Maybe he was born with it...
 
-![Maybe he was born with it...](corky.png)
+![](https://user-images.githubusercontent.com/35873456/35703427-f990aa3e-0769-11e8-9852-1942d090fcca.jpg)
 
 
 ### Ellie
@@ -15,20 +15,3 @@ Ellie loves to hike. This is her gazing at the sunrise.
 ![](IMG_3588.png)
 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chloehacker/chloehacker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
