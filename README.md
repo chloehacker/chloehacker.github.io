@@ -6,14 +6,9 @@ Welcome to this webpage, where you can see me and my dogs, whom I miss dearly as
 
 This is Corky. We rescued him when he was 5 years old. He is now 11 and still thriving, as pictured below.
 
-![Corky](IMG_3649.jpg)
+![Maybe he was born with it...](IMG_3649.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Ellie
 
 
 - Bulleted
