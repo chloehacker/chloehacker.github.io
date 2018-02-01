@@ -11,9 +11,9 @@ This is Corky. We rescued him when he was 5 years old. He is now 11 and still th
 
 ### Ellie
 
+Ellie loves to hike. This is her gazing at the sunrise.
+![](IMG_3588.png)
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
