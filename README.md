@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Chloe and her dogs
 
-You can use the [editor on GitHub](https://github.com/chloehacker/chloehacker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to this webpage, where you can see me and my dogs, whom I miss dearly as they are at their home in Arizona.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Corky the Yorkie
 
-### Markdown
+This is Corky. We rescued him when he was 5 years old. He is now 11 and still thriving, as pictured below.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Corky](IMG_3649.jpg)
 
 ```markdown
 Syntax highlighted code block
@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
 
 - Bulleted
 - List
