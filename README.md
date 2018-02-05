@@ -1,7 +1,7 @@
 ## Chloe and her dogs
 
 Welcome to this webpage, where you can see me and my dogs, whom I miss dearly as they are at their home in Arizona.
-For starters, this is me, Chloe. I am smiling in front of a very tall fern plant I encountered while conducting porcupione research this summer.
+For starters, this is me, Chloe. I am smiling in front of a very tall fern plant I encountered while conducting porcupine research this summer.
 ![](https://user-images.githubusercontent.com/35873456/35704180-9b81e3d8-076c-11e8-9c71-e6a376279ea6.jpg)
 
 ### Corky the Yorkie
